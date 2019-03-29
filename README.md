@@ -1,2 +1,0 @@
-# StocksTest
-Created with CodeSandbox
